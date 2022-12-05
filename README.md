@@ -1,2 +1,2 @@
-# AirBnB clone - The console
-## ALX Group Project
+# AirBnB clone - MYSQL
+## ALX project
